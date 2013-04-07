@@ -7,3 +7,5 @@ for DIR in $(find ./repository -type d); do
     echo -e "</pre>\n</body>\n</html>"
   ) > "${DIR}/index.html"
 done
+
+git add "*" && git commit -am "deployed by script"
