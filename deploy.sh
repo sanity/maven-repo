@@ -8,4 +8,4 @@ for DIR in $(find ./repository -type d); do
   ) > "${DIR}/index.html"
 done
 
-git add "*" && git commit -am "deployed by script"
+git add "*" && git commit -am "deployed by script" && git push origin gh-pages
