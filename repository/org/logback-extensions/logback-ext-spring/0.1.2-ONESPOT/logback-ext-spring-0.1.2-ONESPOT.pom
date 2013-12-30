@@ -25,7 +25,12 @@
     <artifactId>logback-ext-spring</artifactId>
     <name>Logback Extensions :: Spring</name>
     <packaging>jar</packaging>
-
+ <distributionManagement>
+        <repository>
+            <id>gh-pages</id>
+            <url>file:///Users/ian/Documents/maven-repo/repository</url>
+        </repository>
+    </distributionManagement>
     <dependencies>
         <dependency>
           <groupId>ch.qos.logback</groupId>
