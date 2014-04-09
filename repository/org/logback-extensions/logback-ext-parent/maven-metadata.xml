@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.logback-extensions</groupId>
+  <artifactId>logback-ext-parent</artifactId>
+  <versioning>
+    <release>0.1.2-ONESPOT</release>
+    <versions>
+      <version>0.1.2-PENCIL</version>
+      <version>0.1.2-ONESPOT</version>
+    </versions>
+    <lastUpdated>20131230192848</lastUpdated>
+  </versioning>
+</metadata>
