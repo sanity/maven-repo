@@ -3,7 +3,7 @@
   <groupId>quickdt</groupId>
   <artifactId>quickdt</artifactId>
   <versioning>
-    <release>0.1.8</release>
+    <release>0.1.8.1</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -66,7 +66,8 @@
       <version>0.1.6.1</version>
       <version>0.1.7</version>
       <version>0.1.8</version>
+      <version>0.1.8.1</version>
     </versions>
-    <lastUpdated>20140510163649</lastUpdated>
+    <lastUpdated>20140524185427</lastUpdated>
   </versioning>
 </metadata>
