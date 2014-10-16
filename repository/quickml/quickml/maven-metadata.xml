@@ -3,7 +3,7 @@
   <groupId>quickml</groupId>
   <artifactId>quickml</artifactId>
   <versioning>
-    <release>0.4.5.8</release>
+    <release>0.4.5.9</release>
     <versions>
       <version>0.3</version>
       <version>0.3.3</version>
@@ -20,7 +20,8 @@
       <version>0.4.5.3</version>
       <version>0.4.5.4</version>
       <version>0.4.5.8</version>
+      <version>0.4.5.9</version>
     </versions>
-    <lastUpdated>20140923031638</lastUpdated>
+    <lastUpdated>20141016190619</lastUpdated>
   </versioning>
 </metadata>
